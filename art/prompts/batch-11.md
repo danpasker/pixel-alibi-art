@@ -1,0 +1,187 @@
+# Batch 11 of 13: Portraits 181–200
+
+Make one image per section below. Use the prompt exactly as written. Save each image with the file name shown. Rules: [GROK.md](../../README.md).
+
+---
+
+## Quentin (quentin)
+
+- **Save as:** `art/portraits/quentin.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of architect, tall, slicked brown hair, turtleneck, rolled blueprints. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain sky blue background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Saffron (saffron)
+
+- **Save as:** `art/portraits/saffron.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of spice merchant, South Asian, long black braid, orange shawl, gold bangles. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain butter yellow background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Toby (toby)
+
+- **Save as:** `art/portraits/toby.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of baker's boy, freckles, flour on his nose, white cap, basket of bread. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain butter yellow background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Winnie (winnie)
+
+- **Save as:** `art/portraits/winnie.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of knitting circle member, white curls, knitted beret, half-finished scarf. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain pink background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mr. Wickham (wickham)
+
+- **Save as:** `art/portraits/wickham.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of candlemaker, long grey beard, waistcoat, candle in hand. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain peach background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Reverend Ashdown (ashdown)
+
+- **Save as:** `art/portraits/ashdown.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of vicar, kind face, white clerical collar, thinning grey hair. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain lavender background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mr. Pestle (pestle)
+
+- **Save as:** `art/portraits/pestle.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of old pharmacist, bald, half-moon glasses, white coat. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain sky blue background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Madame Fleur (fleur)
+
+- **Save as:** `art/portraits/fleur.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of perfumer, silver updo, pearls, lilac silk blouse. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain pink background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Ranger Oakes (oakes)
+
+- **Save as:** `art/portraits/oakes.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of park ranger, grey beard, wide-brimmed ranger hat, green jacket. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain mint background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mr. Mortimer (mortimer)
+
+- **Save as:** `art/portraits/mortimer.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of old undertaker, long thin face, black top hat, black coat. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain lavender background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mrs. Sugarman (sugarman)
+
+- **Save as:** `art/portraits/sugarman.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of cake baker, round rosy face, white bun, frilly apron. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain pink background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mr. Carat (carat)
+
+- **Save as:** `art/portraits/carat.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of jeweler, bald, monocle, velvet waistcoat, gold watch chain. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain butter yellow background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Maestro Brio (brio)
+
+- **Save as:** `art/portraits/brio.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of bandleader, wild white hair, tailcoat, baton. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain lavender background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mr. Drummond (drummond)
+
+- **Save as:** `art/portraits/drummond.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of property developer, slicked hair, sharp grey suit, gold cufflinks. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain butter yellow background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mr. Dunmore (dunmore)
+
+- **Save as:** `art/portraits/dunmore.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of car dealer, loud checked jacket, big grin, car keys. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain peach background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mr. Clove (clove)
+
+- **Save as:** `art/portraits/clove.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of spice trader, turban, grey beard, embroidered jacket. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain butter yellow background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mrs. Purl (purl)
+
+- **Save as:** `art/portraits/purl.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of knitting circle head, grey bun with knitting needles in it, cardigan. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain pink background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Lord Mortlake (mortlake)
+
+- **Save as:** `art/portraits/mortlake.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of old aristocrat, gaunt, black cloak, silver-topped cane. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain lavender background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Mr. Pullman (pullman)
+
+- **Save as:** `art/portraits/pullman.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of hotel owner, round face, bowler hat, railway-themed waistcoat. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain sky blue background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+## Lady Featherstone (featherstone)
+
+- **Save as:** `art/portraits/featherstone.png`
+- **Size:** 1024×1024
+
+> Cozy pixel art in the style of a modern indie game. Crisp, hard pixel edges with no blur and no anti-aliasing, as if drawn on a 32×32 grid and scaled up. Dark plum outline (#2E1A47). Soft pastel palette built on cream #FFF7E8, lavender #E9D7FF, purple #6B3FA0, pink #FFC9D6, peach #FFDDB8, sky blue #D6EAFE, mint #DFF7E6, butter yellow #FFE38A and rose #E07A8F, with warm wood browns (#C98B55, #9C6439). Flat colors with 1–2 shading tones. No text, no letters, no watermark. Head-and-shoulders portrait of aristocrat, huge feathered hat, pearls, garden-party dress. Friendly, calm expression with a small smile. Facing the viewer, centered, same framing as a trading card. Plain pink background with a dithered band. Cozy murder-mystery cast member. Square image.
+
+---
+
+Next: [batch-12.md](batch-12.md)
