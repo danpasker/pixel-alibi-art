@@ -27,7 +27,9 @@ So the AI draws **one object at a time**. The book places each object in its squ
 
 ### Format
 
-- Square PNG, **1024×1024**: head and shoulders, facing forward, centered, the same framing every time.
+- Square PNG, **1024×1024**, facing forward, centered.
+- **Framing:** Head and shoulders: top of the hair about 1/8 of the way down from the top edge, chin about 5/8 of the way down, shoulders running off the bottom edge, head about half the image width. Same framing for every character.
+- Glasses, hats and other accessories only when the character's description mentions them.
 - Plain two-tone backdrop in the color listed for the character, with a dithered pixel band across the middle.
 - Name the file by the character's **id**: `art/portraits/<id>.png` (e.g. `art/portraits/lily.png`).
 
@@ -41,7 +43,7 @@ So the AI draws **one object at a time**. The book places each object in its squ
 
 | id | Name | Description for the prompt | Backdrop |
 |---|---|---|---|
-| honey | Mrs. Honey | kindly older woman, silver-lilac hair in a bun, purple cardigan over a white baker's apron | pink |
+| honey | Mrs. Honey | kindly older woman, silver-lilac hair in a bun, round purple-framed glasses, purple cardigan over a white baker's apron | pink |
 | marco | Chef Marco | cheerful man, tall white chef's hat, brown hair and thick brown mustache, red neckerchief | sky blue |
 | lily | Lily | young woman, copper-orange hair with a yellow bow on one side, freckles, white blouse | mint |
 | brooks | Mr. Brooks | middle-aged man, neat brown hair, round glasses, brown cardigan, orange tie | peach |
@@ -258,13 +260,14 @@ So the AI draws **one object at a time**. The book places each object in its squ
 
 ### Format
 
-- **Objects:** PNG with a transparent background, **512×512**, seen top-down at a slight angle (like a cozy farming game). Each object fills about 80% of the square and must never spill outside it.
+- **Objects:** PNG with a transparent background, **512×512**, seen in three-quarter top-down view (see the camera rule below). Each object fills about 80% of the square and must never spill outside it.
 - **Floors:** square PNG, **512×512**, **seamless** (tiles without visible joins), top-down, quiet and low-contrast so objects and people stand out.
+- **Camera:** Same camera for every object: a three-quarter top-down view like a cozy farming game, looking down at about 45°, so you see the top surface and a little of the front. Floors are the only exception: straight down.
 - File names: `art/tiles/<name>.png` and `art/floors/<name>.png`, using the names below.
 
 ### Object prompt template
 
-> [Style block] A single **[object]**, viewed from above at a slight angle, centered, with a transparent background. Game sprite for a grid map. Must read clearly at 1 inch wide.
+> [Style block] A single **[object]**, in three-quarter top-down view (camera looking down at about 45°), centered, with a transparent background. Game sprite for a grid map. Must read clearly at 1 inch wide.
 
 ### Rules that matter for the puzzles
 
@@ -283,7 +286,7 @@ The puzzles depend on readers telling these apart at a glance:
 | `chair` | wooden chair with a clear back and a pink cushion | yes |
 | `stool` | round wooden stool seat on short visible legs, seen from above, **no back**, not pink, must not look like a crate | yes |
 | `rug` | square pink rug with a simple concentric pattern | yes |
-| `mat` | flat brown woven doormat, seen from directly above, no slats or fringe (must not look like a bench) | yes |
+| `mat` | flat brown woven doormat lying on the floor (a thin flat rectangle, no height), no slats or fringe (must not look like a bench) | yes |
 | `table` | square table with a white tablecloth, pink trim and a small vase of flowers (not round, not pink, no cake) | no |
 | `desk` | wooden office desk with drawers, a lamp and papers | no |
 | `worktable` | sturdy butcher-block table with a rolling pin and flour dust | no |
@@ -314,4 +317,4 @@ The puzzles depend on readers telling these apart at a glance:
 
 ## Handing the files back
 
-Put the PNGs in `art/portraits/`, `art/tiles/` and `art/floors/` using the names above. [art/CHECKLIST.md](art/CHECKLIST.md) lists all 226 files; run `node scripts/art-status.js` to tick them off and catch misspelled names or wrong sizes. The book and app then need a small update to use them in place of the current placeholder pixel art.
+Put the PNGs in `art/portraits/`, `art/tiles/` and `art/floors/` using the names above. [art/CHECKLIST.md](art/CHECKLIST.md) lists all 226 files (the cover is optional and extra); run `node scripts/art-status.js` to tick them off and catch misspelled names or wrong sizes. The book and app then need a small update to use them in place of the current placeholder pixel art.

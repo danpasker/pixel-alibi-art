@@ -1,6 +1,6 @@
 # Start here: art brief for the image AI
 
-You are making the artwork for **Pixel Alibi**, a cozy pixel-art murder-mystery logic puzzle book. The puzzles are finished. Your job is only the pictures: 226 images in one consistent style.
+You are making the artwork for **Pixel Alibi**, a cozy pixel-art murder-mystery logic puzzle book. The puzzles are finished. Your job is only the pictures: 226 images in one consistent style, plus an optional cover (227 prompts in all).
 
 ## What to make
 
@@ -32,9 +32,12 @@ Readers solve the puzzles by recognising objects on a grid, so a confusing drawi
 - **Counter:** always the same: wood front, grey cash register with a green screen. No cakes on counters.
 - **Doormat:** flat brown woven mat seen from above. It must not look like a bench.
 - **Display case:** glass case on legs with one gold treasure. It must not look like a bookshelf.
+- **One camera for all objects:** three-quarter top-down view, like a cozy farming game, looking down at about 45° so the top and a little of the front show. Floors are straight down.
 - **Objects stay inside their square** and fill about 80% of it.
 - **Floors tile seamlessly** and stay low-contrast.
 - **Nobody looks guilty.** Most characters are innocent in some cases and the killer in another, so every face is friendly and calm, victims included.
+- **Portrait framing:** top of the hair about 1/8 down from the top edge, chin about 5/8 down, shoulders running off the bottom, head about half the image width. Same for everyone.
+- **Glasses, hats and accessories only when the description mentions them.**
 - **A character looks the same everywhere.** One portrait per character, used in every case they appear in.
 
 ## Reference

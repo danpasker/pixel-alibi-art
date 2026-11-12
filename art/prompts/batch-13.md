@@ -1,6 +1,6 @@
 # Batch 13 of 13: Cover (optional)
 
-Make one image per section below. Use the prompt exactly as written. Save each image with the file name shown. Rules: [GROK.md](../../README.md).
+Make one image per section below. Use the prompt exactly as written. Save each image with the file name shown. Rules: [README.md](../../README.md).
 
 ---
 
