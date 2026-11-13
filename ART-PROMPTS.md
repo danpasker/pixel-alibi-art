@@ -49,18 +49,18 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | brooks | Mr. Brooks | middle-aged man, neat brown hair, round glasses, brown cardigan, orange tie | peach |
 | dan | Dan | young delivery man, tan skin, short dark hair, blue cap with a yellow badge, blue work jacket | lavender |
 | vale | Ms. Vale | elegant woman, deep brown skin, short chin-length plum bob, purple blazer, gold earrings, red lipstick | lavender |
-| rosa | Rosa | warm woman in her 50s, dark curly hair with a red rose tucked in, green apron | pink |
+| rosa | Rosa | warm woman in her 50s, dark curly hair with a red rose tucked in, green apron over a plain round-neck top, no collar | pink |
 | basil | Basil | gentle gardener, sandy hair, straw sun hat, green overalls, a sprig of leaves in his pocket | mint |
 | ivy | Ivy | teenage girl, black hair in two buns, green striped top, bright smile | mint |
 | ash | Mr. Ash | slick landlord, grey slicked-back hair, charcoal suit, thin smile | peach |
 | petra | Petra | young woman, blonde ponytail, pastel pink coat, tote bag strap | pink |
 | agatha | Agatha | elderly woman, white hair in a bun, pearl necklace, lavender cardigan | lavender |
 | hart | Colonel Hart | old military man, white handlebar mustache, tweed jacket, medal ribbon on chest | peach |
-| nell | Nell | young waitress, auburn hair in a bun, black dress, white frilly apron | pink |
+| nell | Nell | young waitress, auburn hair in a bun, black dress with a plain round neckline and no collar, white frilly apron | pink |
 | felix | Felix | round-faced cook, rosy cheeks, ginger beard, white cook's cap, flour on his cheek | butter yellow |
 | penny | Miss Penny | stylish woman, black bob, red beret, colorful feather brooch | sky blue |
-| quill | Mr. Quill | thin old librarian, bald with white side hair, small half-moon reading glasses, bow tie | lavender |
-| edith | Edith | elderly archivist, grey hair in a tight bun, pointed cat-eye glasses on a chain, grey cardigan | peach |
+| quill | Mr. Quill | thin old librarian, bald with white side hair, small half-moon reading glasses (flat along the top like half circles, sitting low on the nose), bow tie | lavender |
+| edith | Edith | elderly archivist, grey hair in a tight bun, pointed cat-eye glasses with sharply upswept outer corners on a chain, grey cardigan | peach |
 | rory | Rory | scruffy student, messy brown hair, oversized green hoodie, backpack strap | butter yellow |
 | page | Mrs. Page | bookish woman in her 60s, wavy grey hair, purple shawl, reading glasses on her head | pink |
 | sloane | Dr. Sloane | professor, neat grey beard, tweed jacket with elbow patches, rolled map under his arm | peach |
@@ -68,7 +68,7 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | victor | Victor Lane | hotel manager, slicked dark hair, burgundy suit, gold name badge | sky blue |
 | bella | Bella | bartender, deep brown skin, braids tied up, black vest, white shirt | pink |
 | otto | Otto | young bellhop, red pillbox hat, red uniform with gold buttons | butter yellow |
-| finch | Mrs. Finch | small elderly woman, white curls, blue hat with a little feather, pearl earrings | sky blue |
+| finch | Mrs. Finch | small elderly woman, white curls, blue hat with a little feather, pearl earrings, no glasses | sky blue |
 | jules | Jules | young receptionist, dark side-parted hair, navy blazer, neat tie | lavender |
 | sasha | Sasha | travel writer, light brown skin, long dark hair, round sunglasses pushed up, green scarf | mint |
 | pell | Mr. Pell | postmaster, grey mustache, blue postal cap and blue uniform | sky blue |
@@ -95,23 +95,23 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | stern | Gordon Stern | CEO, grey hair, sharp black suit, red power tie | lavender |
 | priya | Priya | accountant, South Asian, long black hair, rectangular glasses, teal blazer | mint |
 | wes | Wes | IT guy, shaggy blond hair, headset around his neck, grey hoodie | sky blue |
-| marge | Marge | receptionist, big grey perm, cat-eye glasses, pastel blue cardigan | sky blue |
+| marge | Marge | receptionist, big grey perm, pointed cat-eye glasses with sharply upswept outer corners, pastel blue cardigan | sky blue |
 | kit | Kit | saleswoman, sleek black bob, red blazer, confident smile | pink |
 | vivian | Vivian Hale | painter, wild silver hair, paint smudge on her cheek, artist's smock | butter yellow |
-| cobb | Stationmaster Cobb | stationmaster, white beard, navy conductor's cap with gold trim | sky blue |
+| cobb | Stationmaster Cobb | stationmaster, white beard, navy conductor's cap with gold trim, navy conductor's jacket buttoned up to the neck, no tie, no shirt collar showing | sky blue |
 | reginald | Sir Reginald | theatrical actor, swept-back silver hair, ruffled collar, velvet cape | lavender |
 | lucille | Lucille | glamorous singer, deep brown skin, finger-waved black hair, sparkly purple gown, pearl earrings | lavender |
 | coco | Coco Bellamy | chocolatier, brown bob, brown apron, chocolate smudge on her cheek | peach |
 | raoul | Raoul | head chef, dark hair, thin black mustache, white double-breasted chef jacket | sky blue |
 | grimsby | Headmaster Grimsby | stern headmaster, thin grey hair, black academic gown, small spectacles | lavender |
-| clara | Clara | young housemaid, light brown hair under a white maid's cap, black dress | pink |
-| thornbury | Mayor Thornbury | mayor, round face, grey mustache, gold mayoral chain over a dark suit | butter yellow |
+| clara | Clara | young housemaid, light brown hair under a white maid's cap, black dress with a plain round neckline, no white collar | pink |
+| thornbury | Mayor Thornbury | mayor, round face, grey mustache, gold mayoral chain over a dark suit jacket and a plain white open-collar shirt, no tie | butter yellow |
 | crane | Mr. Crane | thin accountant, slicked black hair, round glasses, grey vest, ledger in hand | peach |
 | rex | Rex Rumble | radio DJ, pompadour hair, big headphones around his neck, loud Hawaiian shirt | butter yellow |
 | duke | Duke | bartender, deep brown skin, neat beard, black vest, bow tie | peach |
 | ashby | Lord Ashby | old aristocrat, white hair, white mustache, maroon smoking jacket | lavender |
-| lady | Lady Ashby | aristocratic woman, silver updo, pearl choker necklace as her only jewelry (no earrings), dark green gown | mint |
-| graves | Mr. Graves | butler, slicked grey hair, long serious face (but polite), black tailcoat, white gloves | lavender |
+| lady | Lady Ashby | aristocratic woman, silver updo, pearl choker necklace as her only jewelry, bare earlobes with no earrings or studs, dark green gown | mint |
+| graves | Mr. Graves | butler, clean-shaven, slicked grey hair, long serious face (but polite), black tailcoat over a plain white shirt, no tie, no pin, white gloves | lavender |
 | moss | Dr. Moss | family doctor, kind face, salt-and-pepper beard, stethoscope around his neck | mint |
 | celeste | Celeste | young heiress, blonde waves, beret, Paris-chic striped top | pink |
 | tom | Old Tom | old innkeeper, white bushy beard, red cheeks, brown apron | peach |
@@ -121,60 +121,60 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | ingrid | Ingrid | spa owner, Scandinavian, platinum braid, white robe-style top | mint |
 | fiona | Fiona | concierge, red hair in a French twist, navy uniform with gold keys pin | sky blue |
 | gull | Captain Gull | lighthouse keeper, white beard, navy captain's hat, yellow raincoat | sky blue |
-| sterling | Mr. Sterling | bank manager, neat grey hair, pinstripe suit, gold watch chain | butter yellow |
+| sterling | Mr. Sterling | bank manager, neat grey hair, pinstripe suit over a plain white open-collar shirt, no tie, gold watch chain | butter yellow |
 | horace | Old Horace | clockmaker, wispy white hair, jeweler's loupe on his eye, brown work apron | peach |
 | rousseau | Madame Rousseau | French winemaker, silver bob, burgundy scarf, sun hat | pink |
 | frost | Mr. Frost | lodge owner, icy white beard, red knit sweater with a snowflake | sky blue |
-| bancroft | Mr. Bancroft | country club president, tan, white hair, green blazer with a crest | mint |
-| orsino | Count Orsino | aristocrat, black hair, ornate gold Venetian mask pushed up on his forehead, black cape | lavender |
+| bancroft | Mr. Bancroft | country club president, tan, white hair, green blazer with a crest stitched on the pocket over a white open-collar polo shirt, no tie, no pins | mint |
+| orsino | Count Orsino | aristocrat, black hair, ornate gold Venetian masquerade mask (a decorative half-face mask with eye holes and no strap, not goggles) pushed up on his forehead, black cape | lavender |
 | thistle | Mrs. Thistle | elderly head gardener, white hair under a wide straw hat, green gardening apron, soil on her gloves | mint |
-| beatrice | Beatrice | cheerful beekeeper, round face, golden curls, yellow-and-black striped scarf, a tiny bee on her shoulder | butter yellow |
+| beatrice | Beatrice | cheerful beekeeper, round face, golden curls, yellow-and-black striped scarf over a plain cream top with no vest, a tiny bee on her shoulder | butter yellow |
 | june | June | young florist, light brown skin, short black curls with a daisy tucked in, lavender apron | lavender |
 | hattie | Hattie | retired schoolteacher, grey bob, red reading glasses on a chain, knitted cardigan | pink |
 | lou | Big Lou | burly bowling alley owner, bald, big grin, red-and-white bowling shirt | pink |
 | hank | Hank | mechanic, deep brown skin, grey stubble, oil-stained blue overalls, wrench in his pocket | sky blue |
 | pip | Pip | freckled teenage paperboy, ginger hair, flat newsboy cap, satchel strap | butter yellow |
-| ink | Mr. Ink | newspaper editor, rolled-up sleeves, green visor cap, pencil behind ear, grey mustache | mint |
+| ink | Mr. Ink | newspaper editor, white shirt with rolled-up sleeves and an open collar, no vest, no tie, green visor cap, pencil behind ear, grey mustache | mint |
 | quinn | Quinn | photographer (they/them), short teal-dyed hair, round glasses, camera strap, black turtleneck | mint |
-| arlo | Arlo | friendly mail carrier, Latino, short black hair, blue postal cap and satchel | sky blue |
-| ned | Big Ned | fishmonger, big beard, yellow oilskin hat, rubber apron | sky blue |
+| arlo | Arlo | friendly mail carrier, Latino, short black hair, blue postal cap, plain white short-sleeved shirt (only the cap is blue), brown satchel strap | sky blue |
+| ned | Big Ned | fishmonger, big beard, yellow oilskin sou'wester rain hat with a wide floppy brim that is longer at the back (not a cap), rubber apron | sky blue |
 | rufus | Rufus | weathered fisherman, grey beard, navy wool beanie, cable-knit sweater | sky blue |
 | ezra | Ezra | carpenter, sandy hair, short beard, flannel shirt, pencil behind ear | peach |
-| nora | Nora | new head librarian, East Asian, black hair in a neat bun, cat-eye glasses, burgundy cardigan | lavender |
+| nora | Nora | new head librarian, East Asian, black hair in a neat bun, pointed cat-eye glasses with sharply upswept outer corners, burgundy cardigan | lavender |
 | stellan | Dr. Stellan | astronomer, wild grey hair, star-patterned bow tie, tweed jacket | lavender |
 | hollis | Mr. Hollis | miller, flour-dusted beard, flat cap, brown waistcoat | peach |
 | greta | Greta | baker, blonde braids pinned up, rosy cheeks, white apron with flour handprints | pink |
-| lenny | Lenny Fox | cinema owner, slicked-back hair, thin mustache, red velvet jacket | pink |
-| desmond | Desmond | jazz pianist, deep brown skin, neat grey beard, burgundy waistcoat, bow tie | lavender |
+| lenny | Lenny Fox | cinema owner, slicked-back hair, thin mustache, red velvet jacket over a black open-collar shirt, no tie | pink |
+| desmond | Desmond | jazz pianist, deep brown skin, neat grey beard, burgundy waistcoat over a white shirt, bow tie (his only accessory) | lavender |
 | ophelia | Ophelia | fortune teller, long dark wavy hair, purple headscarf with coins, big hoop earrings | lavender |
-| pocket | Mr. Pocket | toymaker, white beard, round spectacles, green waistcoat with a measuring tape | mint |
+| pocket | Mr. Pocket | toymaker, white beard, round spectacles, green waistcoat with a measuring tape over a cream open-collar shirt, no tie | mint |
 | mabel | Mabel | seamstress, silver bun with pins stuck in it, tape measure around her neck, pink blouse | pink |
-| hargrove | Judge Hargrove | stern old judge, white wig, black robe | lavender |
-| moreau | Captain Moreau | riverboat captain, grey mustache, white captain's hat, navy coat with brass buttons | sky blue |
-| magnifico | Ringmaster Magnifico | ringmaster, curled black mustache, red tailcoat, top hat | butter yellow |
+| hargrove | Judge Hargrove | stern old judge, white wig, black robe closed at the neck, no tie, no collar tabs | lavender |
+| moreau | Captain Moreau | riverboat captain, grey mustache, white captain's hat, navy coat with brass buttons buttoned up to the neck, no tie | sky blue |
+| magnifico | Ringmaster Magnifico | ringmaster, curled black mustache, red tailcoat over a plain white shirt, no tie, no bow tie, top hat | butter yellow |
 | ambrose | Brother Ambrose | elderly monk, bald crown with white fringe, brown habit | peach |
-| whitcombe | Mr. Whitcombe | department store owner, silver hair, pinstripe suit, pocket square | lavender |
-| kessler | Baron Kessler | music critic, monocle, sharp grey goatee, fur-collared coat | lavender |
+| whitcombe | Mr. Whitcombe | department store owner, silver hair, pinstripe suit over a white open-collar shirt, no tie, pocket square | lavender |
+| kessler | Baron Kessler | music critic, monocle, sharp grey goatee, fur-collared coat buttoned up, no tie | lavender |
 | falcone | Signor Falcone | opera tenor, dark curly hair, dramatic ruffled shirt, red sash | pink |
-| blackwood | Lord Blackwood | aristocrat, black hair with grey streak, dark velvet coat, signet ring | lavender |
+| blackwood | Lord Blackwood | aristocrat, black hair with grey streak, dark velvet coat over a black open-collar shirt, no tie, signet ring | lavender |
 | winters | Mrs. Winters | prim cake judge, white hair in a bun, pearl earrings, fur hat | sky blue |
-| pembrook | Commodore Pembrook | ship commodore, white beard, white uniform with gold epaulettes | sky blue |
+| pembrook | Commodore Pembrook | ship commodore, white beard, white uniform jacket with gold epaulettes buttoned up to the neck, no tie | sky blue |
 | gage | Sir Percival Gage | inventor, brass goggles on his forehead, frizzy white hair, leather apron | butter yellow |
-| penrose | Mayor Penrose | mayor, round spectacles, silver hair, gold mayoral chain, dark suit | butter yellow |
-| ferris | Mr. Ferris | old ticket seller, grey sideburns, navy waistcoat, ticket punch on a cord | sky blue |
+| penrose | Mayor Penrose | mayor, round spectacles, silver hair, gold mayoral chain over a dark suit jacket and a plain white open-collar shirt, no tie | butter yellow |
+| ferris | Mr. Ferris | old ticket seller, grey sideburns, navy waistcoat over a white open-collar shirt, no tie, ticket punch on a cord | sky blue |
 | flynn | Flynn | friendly ferryman, curly brown hair, short beard, yellow rain jacket, rope over his shoulder | sky blue |
 | cora | Cora | athletic swimmer, deep brown skin, short natural hair, red swimsuit strap under a striped towel | mint |
-| hector | Hector | retired sailor, white captain's beard, navy peacoat, anchor tattoo, pipe in pocket | sky blue |
-| primrose | Mrs. Primrose | salon owner, towering lilac bouffant, cat-eye glasses, pink smock | pink |
+| hector | Hector | retired sailor, white captain's beard, navy peacoat buttoned up, no tie, anchor tattoo, pipe in pocket | sky blue |
+| primrose | Mrs. Primrose | salon owner, towering lilac bouffant, pointed cat-eye glasses with sharply upswept outer corners, pink smock | pink |
 | kiki | Kiki | hairdresser, bright pink bob, scissors tucked behind her ear, black smock | pink |
 | iris | Iris | young painter, East Asian, messy bun with a paintbrush stuck through it, paint-spattered overalls | lavender |
 | molly | Molly | dairy farmer, freckles, red bandana, denim overalls, milk pail | butter yellow |
-| petrov | Coach Petrov | skating coach, slicked silver hair, sharp cheekbones, fur-collared coat, whistle | sky blue |
+| petrov | Coach Petrov | skating coach, slicked silver hair, sharp cheekbones, fur-collared coat buttoned up, no tie, whistle | sky blue |
 | elsie | Elsie | figure skater, blonde hair in a tight bun, sparkly teal leotard, white earmuffs | mint |
 | dex | Dex | skater teen, light brown skin, backwards red cap, hoodie, sticking plaster on his cheek | butter yellow |
 | gwen | Gwen | gym teacher, short auburn hair, sporty headband, tracksuit, whistle around her neck | peach |
-| jasper | Jasper | young magician, slicked black hair, thin mustache, purple velvet waistcoat, top hat | lavender |
-| barker | Dr. Barker | kind vet, round glasses, grey curly hair, white coat with a paw-print badge | mint |
+| jasper | Jasper | young magician, slicked black hair, thin mustache, purple velvet waistcoat over a white open-collar shirt, no tie, no bow tie, top hat | lavender |
+| barker | Dr. Barker | kind vet, round glasses, grey curly hair, white coat with a paw-print badge over a plain round-neck top, no tie | mint |
 | ada | Ada | vet nurse, deep brown skin, braided bun, teal scrubs, stethoscope | mint |
 | tilly | Tilly | girl scout, freckles, two brown pigtails, green scout scarf and badges | butter yellow |
 | bram | Bram | burly blacksmith, bald, thick black beard, leather apron, soot on his cheek | peach |
@@ -186,9 +186,9 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | nico | Nico | young barista, Italian, dark wavy hair, black apron, coffee cup | peach |
 | olive | Olive | bookkeeper, neat brown bun, round glasses, olive-green cardigan, pencil behind ear | mint |
 | zoltan | The Great Zoltan | grand old magician, pointed white beard, star-covered purple turban, cape | lavender |
-| percy | Percy | butler, slicked silver hair, long face, black tailcoat, white gloves, polite | lavender |
+| percy | Percy | butler, clean-shaven, slicked silver hair, long face, black tailcoat over a plain white shirt, no tie, no pin, white gloves, polite | lavender |
 | brawn | Coach Brawn | muscular gym owner, buzz cut, red tank top, sweatband | peach |
-| lionel | Lionel | banker, slicked blond hair, pinstripe suit, gold tie pin | butter yellow |
+| lionel | Lionel | banker, slicked blond hair, pinstripe suit, plain dark tie with a gold tie pin (his only accessories) | butter yellow |
 | dewey | Mr. Dewey | bookseller, bald, white beard, half-moon glasses, brown cardigan | peach |
 | walt | Walt | night janitor, middle-aged, grey cap, blue coveralls with a name patch, quiet smile | sky blue |
 | roz | Roz | radio host, deep brown skin, big curly hair, headphones around her neck, red lipstick | pink |
@@ -201,22 +201,22 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | laurent | Monsieur Laurent | famous French painter, curly grey hair, beret, neck scarf | lavender |
 | marlin | Mr. Marlin | fishing lodge owner, tan, fishing hat covered in lures, khaki vest | mint |
 | lavender | Lady Lavender | flower show judge, purple hat with flowers, pearls, lilac gloves | lavender |
-| vasquez | Dr. Vasquez | head doctor, Latina, dark hair in a bun, white coat, stethoscope | sky blue |
+| vasquez | Dr. Vasquez | head doctor, Latina, dark hair in a bun, white coat over a plain round-neck top, stethoscope | sky blue |
 | max | Max Kilobyte | arcade owner, spiky green-dyed hair, pixel-print t-shirt, headset | mint |
 | ravenswood | Lady Ravenswood | 90-year-old aristocrat, white hair in an elaborate updo, black lace collar, cameo brooch | lavender |
 | bramwell | Mr. Bramwell | zookeeper, safari hat, khaki shirt, kind weathered face | mint |
 | calloway | Mrs. Calloway | hot springs owner, silver bob, white robe, towel around her neck | pink |
-| gavel | Mr. Gavel | auctioneer, slicked-back hair, bow tie, pinstripe waistcoat | butter yellow |
-| fairweather | Mayor Fairweather | new mayor, deep brown skin, silver locs, gold mayoral chain, rosette | butter yellow |
+| gavel | Mr. Gavel | auctioneer, slicked-back hair, pinstripe waistcoat over a white shirt, bow tie (his only accessory) | butter yellow |
+| fairweather | Mayor Fairweather | new mayor, deep brown skin, silver locs, gold mayoral chain and rosette over a dark suit jacket and a plain white open-collar shirt, no tie | butter yellow |
 | agnes | Agnes | church organist, grey bun, round spectacles, lavender cardigan, sheet music | lavender |
 | barty | Barty | street sweeper, flat cap, ginger sideburns, green work jacket, broom handle | mint |
 | clem | Clem | young farmhand, sunburnt, straw-blond hair, checked shirt, braces | butter yellow |
 | delphine | Delphine | elegant perfumer, French, black chignon, silk scarf, perfume bottle pendant | pink |
-| edgar | Edgar | young undertaker, pale, slicked black hair, black suit, polite small smile | lavender |
+| edgar | Edgar | young undertaker, pale, slicked black hair, black suit over a plain white open-collar shirt, no tie, polite small smile | lavender |
 | fern | Fern | park ranger, freckles, auburn braid, olive ranger hat and badge | mint |
-| gideon | Gideon | pharmacist, neat dark hair, round glasses, white coat, pill bottle in pocket | sky blue |
+| gideon | Gideon | pharmacist, neat dark hair, round glasses, white coat over a plain round-neck top, no tie, pill bottle in pocket | sky blue |
 | hazel | Hazel | candlemaker, chestnut curls, wax-stained apron, little flame earrings | peach |
-| ivo | Ivo | accordion player, curly grey hair, red waistcoat, accordion strap | pink |
+| ivo | Ivo | accordion player, curly grey hair, red waistcoat over a cream open-collar shirt, no tie, accordion strap | pink |
 | jo | Jo | mechanic, short black hair, grease on her cheek, blue overalls, spanner | sky blue |
 | kip | Kip | chimney sweep, soot-smudged face, black top hat, cheeky grin | lavender |
 | lottie | Lottie | cake decorator, pink pigtails, sprinkles on her apron, piping bag | pink |
@@ -227,30 +227,30 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | saffron | Saffron | spice merchant, South Asian, long black braid, orange shawl, gold bangles | butter yellow |
 | toby | Toby | baker's boy, freckles, flour on his nose, white cap, basket of bread | butter yellow |
 | winnie | Winnie | knitting circle member, white curls, knitted beret, half-finished scarf | pink |
-| wickham | Mr. Wickham | candlemaker, long grey beard, waistcoat, candle in hand | peach |
+| wickham | Mr. Wickham | candlemaker, long grey beard, waistcoat over a collarless linen shirt, no tie, candle in hand | peach |
 | ashdown | Reverend Ashdown | vicar, kind face, white clerical collar, thinning grey hair | lavender |
-| pestle | Mr. Pestle | old pharmacist, bald, half-moon glasses, white coat | sky blue |
+| pestle | Mr. Pestle | old pharmacist, bald, half-moon glasses (flat along the top like half circles), white coat over a plain round-neck top, no tie | sky blue |
 | fleur | Madame Fleur | perfumer, silver updo, pearls, lilac silk blouse | pink |
 | oakes | Ranger Oakes | park ranger, grey beard, wide-brimmed ranger hat, green jacket | mint |
-| mortimer | Mr. Mortimer | old undertaker, long thin face, black top hat, black coat | lavender |
+| mortimer | Mr. Mortimer | old undertaker, long thin face, black top hat, black coat buttoned up to the neck, no tie | lavender |
 | sugarman | Mrs. Sugarman | cake baker, round rosy face, white bun, frilly apron | pink |
-| carat | Mr. Carat | jeweler, bald, monocle, velvet waistcoat, gold watch chain | butter yellow |
-| brio | Maestro Brio | bandleader, wild white hair, tailcoat, baton | lavender |
-| drummond | Mr. Drummond | property developer, slicked hair, sharp grey suit, gold cufflinks | butter yellow |
-| dunmore | Mr. Dunmore | car dealer, loud checked jacket, big grin, car keys | peach |
+| carat | Mr. Carat | jeweler, bald, monocle, velvet waistcoat over a white open-collar shirt, no tie, gold watch chain | butter yellow |
+| brio | Maestro Brio | bandleader, wild white hair, tailcoat over a plain white shirt, no tie, no bow tie, baton | lavender |
+| drummond | Mr. Drummond | property developer, slicked hair, sharp grey suit over a white open-collar shirt, no tie, gold cufflinks | butter yellow |
+| dunmore | Mr. Dunmore | car dealer, loud checked jacket over a white open-collar shirt, no tie, big grin, car keys | peach |
 | clove | Mr. Clove | spice trader, turban, grey beard, embroidered jacket | butter yellow |
 | purl | Mrs. Purl | knitting circle head, grey bun with knitting needles in it, cardigan | pink |
-| mortlake | Lord Mortlake | old aristocrat, gaunt, black cloak, silver-topped cane | lavender |
-| pullman | Mr. Pullman | hotel owner, round face, bowler hat, railway-themed waistcoat | sky blue |
+| mortlake | Lord Mortlake | old aristocrat, gaunt, black cloak fastened at the neck, no tie, silver-topped cane | lavender |
+| pullman | Mr. Pullman | hotel owner, round face, bowler hat, railway-themed waistcoat over a white open-collar shirt, no tie | sky blue |
 | featherstone | Lady Featherstone | aristocrat, huge feathered hat, pearls, garden-party dress | pink |
 | ambleside | Bishop Ambleside | bishop, white hair, purple vestments, mitre | lavender |
 | frostberg | Count Frostberg | icy aristocrat, white hair, fur collar, silver crown pin | sky blue |
-| quarrel | Professor Quarrel | stern professor, bushy grey eyebrows, tweed jacket, bow tie | peach |
+| quarrel | Professor Quarrel | stern professor, bushy grey eyebrows, tweed jacket over a white shirt, bow tie (his only accessory) | peach |
 | kroft | Mr. Kroft | film director, beret, sunglasses, megaphone | butter yellow |
-| rudd | Admiral Rudd | admiral, white mustache, navy blazer with gold buttons, captain's cap | sky blue |
+| rudd | Admiral Rudd | admiral, white mustache, navy blazer with gold buttons over a white open-collar shirt, no tie, captain's cap | sky blue |
 | noel | Mr. Noel | market organizer, rosy cheeks, red scarf, white beard (not Santa, no hat) | pink |
-| hollow | Lord Hollow | last of an old family, pale, dark velvet coat, family ring | lavender |
-| vane | Mr. Vane | museum curator, neat black hair, round spectacles, tweed waistcoat | mint |
+| hollow | Lord Hollow | last of an old family, pale, dark velvet coat over a black open-collar shirt, no tie, family ring | lavender |
+| vane | Mr. Vane | museum curator, neat black hair, round spectacles, tweed waistcoat over a white open-collar shirt, no tie | mint |
 
 **Masquerade note (Case 30):** draw everyone normally. The book uses the same portraits.
 
