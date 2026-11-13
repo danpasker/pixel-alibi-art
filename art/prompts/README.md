@@ -17,3 +17,11 @@ Generated from ART-PROMPTS.md. Work through them in order.
 | [batch-11.md](batch-11.md) | Portraits 181–200 | 20 |
 | [batch-12.md](batch-12.md) | Portraits 201–208 | 8 |
 | [batch-13.md](batch-13.md) | Cover (optional) | 1 |
+
+## Redos
+
+Portraits that need redoing, with their current prompts.
+
+| File | Contents | Images |
+|---|---|---|
+| [redo-02.md](redo-02.md) | Redo round 2 | 21 |
