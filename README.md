@@ -38,6 +38,10 @@ Readers solve the puzzles by recognising objects on a grid, so a confusing drawi
 - **Nobody looks guilty.** Most characters are innocent in some cases and the killer in another, so every face is friendly and calm, victims included.
 - **Portrait framing:** top of the hair about 1/8 down from the top edge, chin about 5/8 down, shoulders running off the bottom, head about half the image width. Same for everyone.
 - **Glasses, hats and accessories only when the description mentions them.**
+- **Every portrait faces the viewer straight on,** with face and shoulders square to the camera. No three-quarter turns.
+- **No earrings, studs, necklaces, ties, pins, badges, nameplates, aprons or collars** unless the character's prompt describes them.
+- **Glasses only when described, and in exactly the described shape.**
+- **The background is one plain named color** with a single dithered band in the same hue. Never a full checkerboard or pattern.
 - **A character looks the same everywhere.** One portrait per character, used in every case they appear in.
 
 ## Reference

@@ -48,7 +48,7 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | lily | Lily | young woman, copper-orange hair with a yellow bow on one side, freckles, white blouse | mint |
 | brooks | Mr. Brooks | middle-aged man, neat brown hair, round glasses, brown cardigan, orange tie | peach |
 | dan | Dan | young delivery man, tan skin, short dark hair, blue cap with a yellow badge, blue work jacket | lavender |
-| vale | Ms. Vale | elegant woman, deep brown skin, dark plum bob, purple blazer, gold earrings, red lipstick | lavender |
+| vale | Ms. Vale | elegant woman, deep brown skin, short chin-length plum bob, purple blazer, gold earrings, red lipstick | lavender |
 | rosa | Rosa | warm woman in her 50s, dark curly hair with a red rose tucked in, green apron | pink |
 | basil | Basil | gentle gardener, sandy hair, straw sun hat, green overalls, a sprig of leaves in his pocket | mint |
 | ivy | Ivy | teenage girl, black hair in two buns, green striped top, bright smile | mint |
@@ -59,8 +59,8 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | nell | Nell | young waitress, auburn hair in a bun, black dress, white frilly apron | pink |
 | felix | Felix | round-faced cook, rosy cheeks, ginger beard, white cook's cap, flour on his cheek | butter yellow |
 | penny | Miss Penny | stylish woman, black bob, red beret, colorful feather brooch | sky blue |
-| quill | Mr. Quill | thin old librarian, bald with white side hair, half-moon spectacles, bow tie | lavender |
-| edith | Edith | elderly archivist, grey hair in a tight bun, cat-eye glasses on a chain, grey cardigan | peach |
+| quill | Mr. Quill | thin old librarian, bald with white side hair, small half-moon reading glasses, bow tie | lavender |
+| edith | Edith | elderly archivist, grey hair in a tight bun, pointed cat-eye glasses on a chain, grey cardigan | peach |
 | rory | Rory | scruffy student, messy brown hair, oversized green hoodie, backpack strap | butter yellow |
 | page | Mrs. Page | bookish woman in her 60s, wavy grey hair, purple shawl, reading glasses on her head | pink |
 | sloane | Dr. Sloane | professor, neat grey beard, tweed jacket with elbow patches, rolled map under his arm | peach |
@@ -110,13 +110,13 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | rex | Rex Rumble | radio DJ, pompadour hair, big headphones around his neck, loud Hawaiian shirt | butter yellow |
 | duke | Duke | bartender, deep brown skin, neat beard, black vest, bow tie | peach |
 | ashby | Lord Ashby | old aristocrat, white hair, white mustache, maroon smoking jacket | lavender |
-| lady | Lady Ashby | aristocratic woman, silver updo, pearl choker, dark green gown | mint |
+| lady | Lady Ashby | aristocratic woman, silver updo, pearl choker necklace as her only jewelry (no earrings), dark green gown | mint |
 | graves | Mr. Graves | butler, slicked grey hair, long serious face (but polite), black tailcoat, white gloves | lavender |
 | moss | Dr. Moss | family doctor, kind face, salt-and-pepper beard, stethoscope around his neck | mint |
 | celeste | Celeste | young heiress, blonde waves, beret, Paris-chic striped top | pink |
 | tom | Old Tom | old innkeeper, white bushy beard, red cheeks, brown apron | peach |
 | maud | Maud | inn cook, grey bun, rosy cheeks, plain blue dress, apron | sky blue |
-| silas | Silas | traveler, wide-brimmed hat, dark stubble, long brown coat | peach |
+| silas | Silas | traveler, wide-brimmed hat, light stubble only, no beard, long brown coat | peach |
 | montague | Mr. Montague | hotel owner, white hair, white mustache, gold-trimmed tuxedo | butter yellow |
 | ingrid | Ingrid | spa owner, Scandinavian, platinum braid, white robe-style top | mint |
 | fiona | Fiona | concierge, red hair in a French twist, navy uniform with gold keys pin | sky blue |
@@ -248,7 +248,7 @@ So the AI draws **one object at a time**. The book places each object in its squ
 | quarrel | Professor Quarrel | stern professor, bushy grey eyebrows, tweed jacket, bow tie | peach |
 | kroft | Mr. Kroft | film director, beret, sunglasses, megaphone | butter yellow |
 | rudd | Admiral Rudd | admiral, white mustache, navy blazer with gold buttons, captain's cap | sky blue |
-| noel | Mr. Noel | market organizer, rosy cheeks, red scarf, white beard (not Santa — no hat) | pink |
+| noel | Mr. Noel | market organizer, rosy cheeks, red scarf, white beard (not Santa, no hat) | pink |
 | hollow | Lord Hollow | last of an old family, pale, dark velvet coat, family ring | lavender |
 | vane | Mr. Vane | museum curator, neat black hair, round spectacles, tweed waistcoat | mint |
 
